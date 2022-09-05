@@ -1,0 +1,35 @@
+{
+    "Welcome To Mantissa LLC": "Добро пожаловать в Мантисса ООO",
+    "about us": "о нас",
+    "home": "дом",
+    "products": "продукты",
+    "machinery": "Станки",
+    "machinery details": "детали машин",
+    "wood work": "работа по дереву",
+    "courses": "курсы",
+    "modeling": "моделирование",
+    "machine control": "управление машиной",
+    "online shop": "интернет магазин",
+    "3D models": "3D модели",
+    "2D models": "2D модели",
+    "G-Code files": "G-Code файлы",
+    "sign in": "войти",
+    "sign up": "регистрация",
+    "sign out": "выход",
+    "password": "пароль",
+    "email": "Эл. адрес",
+    "Create your account it's totally free": "Создайте свою учетную запись, это совершенно бесплатно",
+    "Welcome To Back": "С Возвращением",
+    "pages": {
+        "home": {
+            "title": "Мантисса ООO",
+            "description": "Добро пожаловать",
+            "url": ""
+        },
+        "about": {
+            "title": "Мантисса ООO - о нас",
+            "description": "Добро пожаловать",
+            "url": ""
+        }
+    }
+}

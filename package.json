@@ -1,0 +1,45 @@
+{
+  "name": "full",
+  "version": "0.1.0",
+  "private": true,
+  "prisma": {
+    "seed": "node prisma/seed.js"
+  },
+  "scripts": {
+    "dev": "nodemon server/index.js",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "studio": "npx prisma studio",
+    "seed": "npx prisma db seed",
+    "update-db": "npx prisma migrate reset",
+    "migrate": "npx prisma migrate dev --name"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^4.2.0",
+    "@babylonjs/gui": "^4.2.0",
+    "@babylonjs/loaders": "^4.2.0",
+    "@prisma/client": "^3.3.0",
+    "antd": "^4.16.13",
+    "antd-mobile": "^5.0.0-beta.20",
+    "express": "^4.17.1",
+    "i18next": "^21.4.0",
+    "next": "11.1.2",
+    "node-sass": "4.14.1",
+    "prop-types": "^15.7.2",
+    "react": "17.0.2",
+    "react-babylonjs": "^3.0.26",
+    "react-dom": "17.0.2",
+    "react-helmet-async": "^1.1.2",
+    "react-i18next": "^11.13.0",
+    "react-icons": "^4.3.1",
+    "styled-components": "^5.3.3"
+  },
+  "devDependencies": {
+    "babel-plugin-styled-components": "^1.13.3",
+    "eslint": "7.32.0",
+    "eslint-config-next": "11.1.2",
+    "nodemon": "^2.0.14",
+    "prisma": "^3.3.0"
+  }
+}

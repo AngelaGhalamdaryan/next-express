@@ -1,0 +1,35 @@
+{
+    "Welcome To Mantissa LLC": "Welcome To Mantissa LLC",
+    "about us": "about us",
+    "home": "home",
+    "products": "products",
+    "machinery": "machinery",
+    "machinery details": "machinery details",
+    "wood work": "wood work",
+    "courses": "courses",
+    "modeling": "modeling",
+    "machine control": "machine control",
+    "online shop":"online shop",
+    "3D models": "3D models",
+    "2D models": "2D models",
+    "G-Code files": "G-Code files",
+    "sign in": "sign in",
+    "sign up": "sign up",
+    "sign out": "sign out",
+    "password": "password",
+    "email": "email",
+    "Create your account it's totally free": "Create your account it's totally free",
+    "Welcome To Back": "Welcome To Back",
+    "pages": {
+        "home": {
+            "title": "Mantissa LLC",
+            "description": "welcome",
+            "url": ""
+        },
+        "about": {
+            "title": "Mantissa LLC - About",
+            "description": "welcome about",
+            "url": ""
+        }
+    }
+}

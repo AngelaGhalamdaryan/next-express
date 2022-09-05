@@ -1,0 +1,35 @@
+{
+    "Welcome To Mantissa LLC": "Բարի գալուստ «Մանտիսսա» ՍՊԸ",
+    "about us": "մեր մասին",
+    "home": "գլխավոր",
+    "products": "ապրանքներ",
+    "machinery": "հաստոցներ",
+    "machinery details": "հաստոցների մասեր",
+    "wood work": "Փայտամշակում",
+    "courses": "դասընթացներ",
+    "modeling": "մոդելավորում",
+    "machine control": "հաստոցի կառավարում",
+    "online shop":"օնլայն խանութ",
+    "3D models": "3D մոդելներ",
+    "2D models": "2D մոդելներ",
+    "G-Code files": "G-Code ֆայլեր",
+    "sign in": "Մուտք",
+    "sign up": "գրանցվել",
+    "sign out": "դուրս գալ",
+    "password": "գաղտնաբառ",
+    "email": "էլ հասցե",
+    "Create your account it's totally free": "Ստեղծեք ձեր հաշիվը, դա բոլորովին անվճար է",
+    "Welcome To Back": "Բարի Վերադարձ",
+    "pages": {
+        "home": {
+            "title": "Mantissa LLC",
+            "description": "welcome",
+            "url": ""
+        },
+        "about": {
+            "title": "Mantissa LLC - About",
+            "description": "welcome about",
+            "url": ""
+        }
+    }
+}
